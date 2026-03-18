@@ -3,7 +3,7 @@
 
 🎓 **BSc Physics (Honors) Student — University of Alberta**
 
-I am a physics student interested in **theoretical physics, computational modelling, and space systems**. My work involves applying **numerical methods, scientific computing, and data-driven analysis** to problems in astrophysics, quantum systems, and detector physics. I enjoy building computational tools to explore complex physical systems and extract insight from scientific data.
+I am a physics student interested in space systems and exploration, theoretical physics and computational modelling. My work involves applying numerical methods, scientific computing, and data-driven analysis to problems in astrophysics, quantum systems, and detector physics. I enjoy building computational tools to explore complex physical systems and extract insight from scientific data.
 
 ---
 
