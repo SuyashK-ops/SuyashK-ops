@@ -66,6 +66,7 @@ I am a physics student interested in space systems and exploration, theoretical 
 - Python (NumPy, SciPy, Matplotlib)
 - MATLAB
 - Mathematica
+- HTML, CSS & JavaScript
 
 ### 🔢 Scientific Computing
 - Monte Carlo simulations  
