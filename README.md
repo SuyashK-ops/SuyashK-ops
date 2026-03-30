@@ -11,7 +11,7 @@ I am a physics student interested in space systems and exploration, theoretical 
 
 - 🎓 4th year **BSc Physics (Honors)** student at the **University of Alberta**
 - 🔬 Completed **two summer research terms**
-- 📚 Currently working on **two Honors thesis research projects**
+- 📚 Completing **two Honors thesis research projects**
 
 ### 🚀 Interests
 
